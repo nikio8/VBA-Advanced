@@ -1,8 +1,8 @@
 # VBA-Advanced
-Some complex files for references
-Pq, DAX, VBA,
-Simple looking files that serve as backbone for complex data collation and analysis
-They should all be portable and easy to use
+Some complex files for references\
+Pq, DAX, VBA,\
+Simple looking files that serve as backbone for complex data collation and analysis\
+They should all be portable and easy to use\
 
 **Stock data:**
 *Stock data download and analysis tool, multiple stock analysis on one screen*
