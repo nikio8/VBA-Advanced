@@ -12,13 +12,13 @@ Dax data model\
 Custom pq functon to downlad data from a webstite\
 Data-Stocks - new funtion in Excel\
 -How to: \
-  If you have the latest version of Office 365, "Refresh All" - refreshes all data\
-  To add new stock\
-    Sheet "Stock" - Column C-O is coverted to Excel stock\
-                          New stock is added in column C, say Telstra = "XASX:TLS"\
-                          Note, stock is created from US point of view\
-                    Column B contains share website code\
-    Sheet "Parameters" - adjust yellow highlights as requierd\
+...If you have the latest version of Office 365, "Refresh All" - refreshes all data\
+...To add new stock\
+.....Sheet "Stock" - Column C-O is coverted to Excel stock\
+.................New stock is added in column C, say Telstra = "XASX:TLS"\
+.................Note, stock is created from US point of view\
+.................Column B contains share website code\
+...Sheet "Parameters" controls which data is available and date range - adjust yellow highlights as requierd\
 \
 \
 **POS**\
