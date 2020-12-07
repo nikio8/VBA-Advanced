@@ -1,6 +1,6 @@
 # VBA-Advanced
 Some complex files for references\
-Note, not all is my work, but it was fully manually entered for learning purpose\
+Note, not all is my work, but it is an example of workflow I can maintain with ease\
 Pq, DAX, VBA,\
 Simple looking files that serve as backbone for complex data collation and analysis\
 They should all be portable and easy to use.\
